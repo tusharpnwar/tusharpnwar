@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Projects requiring challenges using ML and AI.
 - 📫 How to reach me:https://www.linkedin.com/in/tushar-panwar-a35004251/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact:  My love for coding is like an infinite loop—there’s no exit in sight, and I’m perfectly okay with that! 🔄❤️
 
 <!---
 tusharpnwar/tusharpnwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
